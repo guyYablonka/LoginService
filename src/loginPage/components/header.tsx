@@ -1,3 +1,4 @@
+import React from "react";
 import { Box } from "@rocket.chat/fuselage";
 import { ReactComponent as ReactLogo } from "../../images/logo.svg";
 const Header = () => {

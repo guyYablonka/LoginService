@@ -1,3 +1,4 @@
+import React from "react";
 // @ts-ignore
 import Layout from "./loginPage/components/layout.tsx";
 
